@@ -13,6 +13,9 @@ npm install
 ````
 npm start
 ````
+### MongoDB
+* Crie uma collection chamada developers em seu MongoDB
+
 ## Rotas
 Método    | Rota           | Retorno
 --------- | ---------      | ---------
